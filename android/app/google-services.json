@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "537608532861",
+    "firebase_url": "https://smart-taxi-5d4d2-default-rtdb.firebaseio.com",
+    "project_id": "smart-taxi-5d4d2",
+    "storage_bucket": "smart-taxi-5d4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537608532861:android:2e6f3ae60fe77c01b85214",
+        "android_client_info": {
+          "package_name": "wetch.smart.admin_smarcap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537608532861-5tn747q9p0rec9bhjcmr49d24kvluqsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjVHhuLGojZJu_32tKplk_2B0noheOmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537608532861-5tn747q9p0rec9bhjcmr49d24kvluqsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537608532861:android:ff2882a503376091b85214",
+        "android_client_info": {
+          "package_name": "wetech.cap.smart_cap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537608532861-5tn747q9p0rec9bhjcmr49d24kvluqsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjVHhuLGojZJu_32tKplk_2B0noheOmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537608532861-5tn747q9p0rec9bhjcmr49d24kvluqsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537608532861:android:63b82abed3371057b85214",
+        "android_client_info": {
+          "package_name": "wetech.smart.cap.smart_cap_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537608532861-lppnlkhiu8s02itbjic6ellcthsmiqam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wetech.smart.cap.smart_cap_user",
+            "certificate_hash": "04ca2998cff45c550917cd7e190d13551539ce1d"
+          }
+        },
+        {
+          "client_id": "537608532861-5tn747q9p0rec9bhjcmr49d24kvluqsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjVHhuLGojZJu_32tKplk_2B0noheOmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537608532861-5tn747q9p0rec9bhjcmr49d24kvluqsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
